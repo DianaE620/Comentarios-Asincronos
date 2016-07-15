@@ -1,0 +1,5 @@
+-- Definicion de API
+
+Sabes lo que es un API (Application Programming Interface)?
+
+Un API es una "librería" creada para poder comunicarse con un software en particular, de manera sencilla. Normalmente esta librería contiene funciones, especificaciones y procedimientos que te permites comunicarte con un software en particular para recibir servicios del mismo.
